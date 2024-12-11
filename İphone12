@@ -1,0 +1,2 @@
+cd ~/openvpn-ca
+source ./vars
